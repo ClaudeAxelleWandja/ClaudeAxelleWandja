@@ -92,7 +92,7 @@ Le détail de l'enchaînement : [PORTFOLIO.md](https://github.com/VOTRE-USERNAME
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([lien-linkedin](https://www.linkedin.com/in/claude-axelle-wandja-yanze-747197383/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:claudeaxellewandjayanze@gmail.com)
 
-<sub>Ce profil est mis à jour chaque vendredi, à la fin de chaque semaine du programme.</sub>
+<sub>Ce profil est mis à jour chaque fin de semaine, à la fin de chaque semaine du programme.</sub>
 
 
                 
