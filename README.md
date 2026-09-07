@@ -15,7 +15,7 @@ Tout est public : la feuille de route, les notes, les exercices et les projets.
 - **Prochaine étape :** Java et programmation orientée objet
 - **Objectif à court terme :** un stage de développeuse backend — candidatures à partir de **mi-décembre 2026**
 
-📌 Ma feuille de route complète : **[software-engineering-roadmap](https://github.com/ClaudeAxelleWandja/software-engineering-roadmap)**
+📌 Ma feuille de route complète : **[roadmap](https://github.com/ClaudeAxelleWandja/roadmap)**
 
 ---
 
