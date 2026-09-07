@@ -17,6 +17,8 @@ Tout est public : la feuille de route, les notes, les exercices et les projets.
 
 📌 Ma feuille de route complète : **[roadmap](https://github.com/ClaudeAxelleWandja/roadmap)**
 
+📌 Ma programme complet en PDF : **[Programme PDF](https://github.com/ClaudeAxelleWandja/roadmap/docs/programmePDF)**
+
 ---
 
 ### 🗺️ Le programme en un coup d'œil
